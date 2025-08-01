@@ -34,7 +34,7 @@ This file should be imported by eng/Versions.props
     <MicrosoftBclAsyncInterfacesPackageVersion>10.0.0-rc.1.25411.109</MicrosoftBclAsyncInterfacesPackageVersion>
     <MicrosoftBuildPackageVersion>17.15.0-preview-25411-109</MicrosoftBuildPackageVersion>
     <MicrosoftBuildLocalizationPackageVersion>17.15.0-preview-25411-109</MicrosoftBuildLocalizationPackageVersion>
-    <MicrosoftBuildNuGetSdkResolverPackageVersion>7.0.0-preview.1.609</MicrosoftBuildNuGetSdkResolverPackageVersion>
+    <MicrosoftBuildNuGetSdkResolverPackageVersion>7.0.0-zlocal.32767</MicrosoftBuildNuGetSdkResolverPackageVersion>
     <MicrosoftBuildTasksGitPackageVersion>10.0.0-beta.25411.109</MicrosoftBuildTasksGitPackageVersion>
     <MicrosoftCodeAnalysisPackageVersion>5.0.0-2.25411.109</MicrosoftCodeAnalysisPackageVersion>
     <MicrosoftCodeAnalysisBuildClientPackageVersion>5.0.0-2.25411.109</MicrosoftCodeAnalysisBuildClientPackageVersion>
@@ -101,21 +101,21 @@ This file should be imported by eng/Versions.props
     <MicrosoftWin32SystemEventsPackageVersion>10.0.0-rc.1.25411.109</MicrosoftWin32SystemEventsPackageVersion>
     <MicrosoftWindowsDesktopAppInternalPackageVersion>10.0.0-rc.1.25411.109</MicrosoftWindowsDesktopAppInternalPackageVersion>
     <MicrosoftWindowsDesktopAppRefPackageVersion>10.0.0-rc.1.25411.109</MicrosoftWindowsDesktopAppRefPackageVersion>
-    <NuGetBuildTasksPackageVersion>7.0.0-preview.1.609</NuGetBuildTasksPackageVersion>
-    <NuGetBuildTasksConsolePackageVersion>7.0.0-preview.1.609</NuGetBuildTasksConsolePackageVersion>
-    <NuGetBuildTasksPackPackageVersion>7.0.0-preview.1.609</NuGetBuildTasksPackPackageVersion>
-    <NuGetCommandLineXPlatPackageVersion>7.0.0-preview.1.609</NuGetCommandLineXPlatPackageVersion>
-    <NuGetCommandsPackageVersion>7.0.0-preview.1.609</NuGetCommandsPackageVersion>
-    <NuGetCommonPackageVersion>7.0.0-preview.1.609</NuGetCommonPackageVersion>
-    <NuGetConfigurationPackageVersion>7.0.0-preview.1.609</NuGetConfigurationPackageVersion>
-    <NuGetCredentialsPackageVersion>7.0.0-preview.1.609</NuGetCredentialsPackageVersion>
-    <NuGetDependencyResolverCorePackageVersion>7.0.0-preview.1.609</NuGetDependencyResolverCorePackageVersion>
-    <NuGetFrameworksPackageVersion>7.0.0-preview.1.609</NuGetFrameworksPackageVersion>
-    <NuGetLibraryModelPackageVersion>7.0.0-preview.1.609</NuGetLibraryModelPackageVersion>
-    <NuGetPackagingPackageVersion>7.0.0-preview.1.609</NuGetPackagingPackageVersion>
-    <NuGetProjectModelPackageVersion>7.0.0-preview.1.609</NuGetProjectModelPackageVersion>
-    <NuGetProtocolPackageVersion>7.0.0-preview.1.609</NuGetProtocolPackageVersion>
-    <NuGetVersioningPackageVersion>7.0.0-preview.1.609</NuGetVersioningPackageVersion>
+    <NuGetBuildTasksPackageVersion>7.0.0-zlocal.32767</NuGetBuildTasksPackageVersion>
+    <NuGetBuildTasksConsolePackageVersion>7.0.0-zlocal.32767</NuGetBuildTasksConsolePackageVersion>
+    <NuGetBuildTasksPackPackageVersion>7.0.0-zlocal.32767</NuGetBuildTasksPackPackageVersion>
+    <NuGetCommandLineXPlatPackageVersion>7.0.0-zlocal.32767</NuGetCommandLineXPlatPackageVersion>
+    <NuGetCommandsPackageVersion>7.0.0-zlocal.32767</NuGetCommandsPackageVersion>
+    <NuGetCommonPackageVersion>7.0.0-zlocal.32767</NuGetCommonPackageVersion>
+    <NuGetConfigurationPackageVersion>7.0.0-zlocal.32767</NuGetConfigurationPackageVersion>
+    <NuGetCredentialsPackageVersion>7.0.0-zlocal.32767</NuGetCredentialsPackageVersion>
+    <NuGetDependencyResolverCorePackageVersion>7.0.0-zlocal.32767</NuGetDependencyResolverCorePackageVersion>
+    <NuGetFrameworksPackageVersion>7.0.0-zlocal.32767</NuGetFrameworksPackageVersion>
+    <NuGetLibraryModelPackageVersion>7.0.0-zlocal.32767</NuGetLibraryModelPackageVersion>
+    <NuGetPackagingPackageVersion>7.0.0-zlocal.32767</NuGetPackagingPackageVersion>
+    <NuGetProjectModelPackageVersion>7.0.0-zlocal.32767</NuGetProjectModelPackageVersion>
+    <NuGetProtocolPackageVersion>7.0.0-zlocal.32767</NuGetProtocolPackageVersion>
+    <NuGetVersioningPackageVersion>7.0.0-zlocal.32767</NuGetVersioningPackageVersion>
     <SystemCodeDomPackageVersion>10.0.0-rc.1.25411.109</SystemCodeDomPackageVersion>
     <SystemCommandLinePackageVersion>2.0.0-rc.1.25411.109</SystemCommandLinePackageVersion>
     <SystemCompositionAttributedModelPackageVersion>10.0.0-rc.1.25411.109</SystemCompositionAttributedModelPackageVersion>
@@ -140,7 +140,7 @@ This file should be imported by eng/Versions.props
     <!-- dotnet/core-setup dependencies -->
     <NETStandardLibraryRefPackageVersion>2.1.0</NETStandardLibraryRefPackageVersion>
     <!-- nuget/nuget.client dependencies -->
-    <NuGetLocalizationPackageVersion>7.0.0-preview.1.100</NuGetLocalizationPackageVersion>
+    <NuGetLocalizationPackageVersion>7.0.0-zlocal.32767</NuGetLocalizationPackageVersion>
     <!-- microsoft/testfx dependencies -->
     <MicrosoftTestingPlatformPackageVersion>1.9.0-preview.25414.4</MicrosoftTestingPlatformPackageVersion>
     <MSTestPackageVersion>3.11.0-preview.25414.4</MSTestPackageVersion>
