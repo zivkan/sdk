@@ -55,7 +55,7 @@
     <PackageReference Include="Microsoft.Build.Utilities.Core" ExcludeAssets="Runtime" />
     <PackageReference Include="Microsoft.Extensions.DependencyModel" />
     <PackageReference Include="Microsoft.NET.HostModel" />
-    <PackageReference Include="NuGet.ProjectModel" />
+    <PackageReference Include="NuGet.Commands" />
     <PackageReference Include="NuGet.Build.Tasks.Pack" />
     <PackageReference Include="Microsoft.Deployment.DotNet.Releases" />
     <!-- Use an alias for APICompat so that we bring in the binaries, but don't accidentally reference any types -->
